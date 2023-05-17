@@ -1,9 +1,12 @@
-
+<img align="center" alt="Coding1" width="1100" height="550" src="https://media.tenor.com/krDuVGhKFZsAAAAM/sports-sportsmanias.gif">
 <h1 align="center">Hi 👋, I'm Jherick Timban</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/C3bw77clEhIAAAAC/panda-animated.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/1600PKm36KUAAAAC/lazy-tired.gif">
 - 🌱 I’m currently learning **Java Object-Oriented Programming**
 
+- 👨‍💻 I'm currently taking **Bachelor of Science in Information Technology with specialization in Mobile and Web Applications💻📱**
+
 - 📫 How to reach me **jrickvillaqwe@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
