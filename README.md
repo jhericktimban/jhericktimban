@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jherick Timban</h1>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/lazy-lian-lianbiglian-Sh0EaukUbMmdXz1p8b">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/C3bw77clEhIAAAAC/panda-animated.gif">
 - 🌱 I’m currently learning **Java Object-Oriented Programming**
 
 - 📫 How to reach me **jrickvillaqwe@gmail.com**
