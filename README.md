@@ -1,5 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jherick Timban</h1>
-https://i.pinimg.com/originals/b6/aa/45/b6aa456d67464a2f6a1f19d3a3efbd2d.gif
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b6/aa/45/b6aa456d67464a2f6a1f19d3a3efbd2d.gif")
 - 🌱 I’m currently learning **Java Object-Oriented Programming**
 
 - 📫 How to reach me **jrickvillaqwe@gmail.com**
