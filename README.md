@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm currently taking **Bachelor of Science in Information Technology with specialization in Mobile and Web Applications at National University - Manila**
 
-- 📫 How to reach me **jrickvillaqwe@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
